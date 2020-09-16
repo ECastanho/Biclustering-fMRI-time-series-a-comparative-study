@@ -21,8 +21,7 @@ The paper have three data colections:
 
 
 ## Software requirements
-
-For fully reproduce this paper some software will be needed depending on the part of the analysis:
+During the development of this paper some software was needed depending on the part of the analysis:
 
 - MATLAB will be needed to run the [SimTB Generator](https://trendscenter.org/software/simtb/), to generate the synthetic datasets.
 - R will be needed for running most of the biclustering algorithms (FABIA, ISA, Bimax, XMotifs, Spectral).
