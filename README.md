@@ -1,5 +1,6 @@
 # Biclustering fMRI Time Series A comparative Study
 
+![Image of Yaktocat](https://raw.githubusercontent.com/ECastanho/Biclustering-fMRI-Time-Series-A-comparative-Study/master/IllustrativeBics.png)
 
 This repository aims to provide support to the associated paper. It acts as an repository to archive:
 
