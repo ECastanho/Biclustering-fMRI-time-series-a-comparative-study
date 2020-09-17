@@ -7,7 +7,7 @@ During the paper, three data collections were used:
 - **Third  data collection**: Twenty real subjects
 
 ## Synthetic data
-Produced by the SimTB fMRI data simulator.  
+Produced by the [SimTB fMRI data simulator](https://trendscenter.org/software/simtb/).  
 
 ## Real data
 Collected by Vaisvaser et al.(2013) and processed by Amar et al.(2015). The data is present in [the TWIGS repository](http://acgt.cs.tau.ac.il/twigs/). For more information about the data, consult:
