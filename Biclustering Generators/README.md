@@ -10,7 +10,7 @@ This folder stores scripts to generate Biclusters from the data csvs. Each folde
 - CCC, implemented in Java
 - BicPAM, implemented in Java
 
-Aditionally, it stores scripts for the Clustering methods, since they are interpreted as Biclustering methods in our study.
+Additionally, it stores scripts for the Clustering methods, since they are interpreted as Biclustering methods in our study.
 
 - K-Means, implemented in Python
 - Spectral, implemented in Python
