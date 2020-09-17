@@ -23,7 +23,7 @@ The paper have three data colections:
 ## Software requirements
 During the development of this paper some software was needed depending on the part of the analysis:
 
-- MATLAB will be needed to run the [SimTB Generator](https://trendscenter.org/software/simtb/), to generate the synthetic datasets.
+- MATLAB will be needed to run the [SimTB fMRI data simulator](https://trendscenter.org/software/simtb/), to generate the synthetic datasets.
 - R will be needed for running most of the biclustering algorithms (FABIA, ISA, Bimax, XMotifs, Spectral).
   - For FABIA, you need the [fabia Package](https://bioconductor.org/packages/release/bioc/html/fabia.html).
   - For ISA, you need the [isa2 Package](https://cran.r-project.org/web/packages/isa2/index.html).
