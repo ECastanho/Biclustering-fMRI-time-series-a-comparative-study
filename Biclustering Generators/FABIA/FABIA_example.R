@@ -6,7 +6,7 @@ setwd("yourChoice")
 # Lets go pick the biclustering function
 source("yourChoice/FABIA.R")
 
-#Loading the simtb Dataset
+#Loading the Dataset
 data = read.table(file = "yourChoice/dataset.csv", header = TRUE, sep = ',', row.names = 1)
 
 #Running the Fabia Algorithm
