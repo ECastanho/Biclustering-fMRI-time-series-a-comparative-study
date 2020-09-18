@@ -7,7 +7,7 @@ setwd("yourChoice")
 source("yourChoice/FABIA.R")
 
 #Loading the simtb Dataset
-data = read.table(file = "yourChoice/datasetS1.csv", header = TRUE, sep = ',', row.names = 1)
+data = read.table(file = "yourChoice/dataset.csv", header = TRUE, sep = ',', row.names = 1)
 
 #Running the Fabia Algorithm
 Fabia(dataset = data)  
