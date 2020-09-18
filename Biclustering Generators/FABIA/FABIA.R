@@ -65,7 +65,7 @@ library(fabia)
 library(tidyverse)
 library(dplyr)
 
-myFabia <- function(dataset,
+Fabia <- function(dataset,
                   directory_out = "./", 
                   csv_name = "fabia_Bicluster_",
                   numbiclusters = 5,
