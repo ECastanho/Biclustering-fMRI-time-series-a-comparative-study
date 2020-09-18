@@ -1,8 +1,8 @@
 # setting the directory
-setwd("yourchoice")
+setwd("yourChoice")
 
 # Lets go pick the biclustering functions
-source("yourchoice/Spectral.R")
+source("yourChoice/Spectral.R")
 
 #Loading the dataset
 data = read.table(file = "yourchoice/dataset.csv", header = TRUE, sep = ',', row.names = 1)
