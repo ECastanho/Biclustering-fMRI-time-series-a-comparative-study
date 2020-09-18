@@ -27,7 +27,7 @@ During the development of this paper some software was needed depending on the p
 - R will be needed for running most of the biclustering algorithms (FABIA, ISA, Bimax, XMotifs, Spectral).
   - For FABIA, you need the [fabia Package](https://bioconductor.org/packages/release/bioc/html/fabia.html).
   - For ISA, you need the [isa2 Package](https://cran.r-project.org/web/packages/isa2/index.html).
-  - For the remaining algorirthms, you need the [biclust Package](https://cran.r-project.org/web/packages/biclust/index.html).
+  - For the remaining algorithms, you need the [biclust Package](https://cran.r-project.org/web/packages/biclust/index.html).
 - Python will be used for running the clustering algorithms (Spectral, K-means, Ward's hierarchical method) and analysing the biclustering solutions.
   - For the clustering algorithms, we used the implementations provided by [scikit-learn](https://scikit-learn.org/stable/).
   - Other traditional python libraries are used during the scripts.
