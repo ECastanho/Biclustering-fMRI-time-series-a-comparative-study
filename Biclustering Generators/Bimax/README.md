@@ -8,7 +8,8 @@
 
 ## Observations
 
-- This implementation generates an output file per bicluster
+- This implementation does the binarization of the data inside the function.
+- This implementation generates an output file per bicluster.
 
 ## References
 
