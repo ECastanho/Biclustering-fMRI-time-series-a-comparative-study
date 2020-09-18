@@ -1,7 +1,14 @@
 # FABIA: Factor Analysis for Bicluster Acquisition
 
+## Files
+
+- **FABIA.R**: r function that receives a csv as input and generates biclusters.
+- **FABIA_example.R**: example script for a single csv
 
 
+## Observations
+
+- This implementation generates an output file per bicluster
 
 ## References
 
