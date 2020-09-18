@@ -1,4 +1,4 @@
-# Biclustering fMRI Time Series A comparative Study
+# Biclustering fMRI time series: a comparative study
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/ECastanho/Biclustering-fMRI-Time-Series-A-comparative-Study/master/IllustrativeBics.png)
 
