@@ -34,7 +34,6 @@ During the development of this paper some software was needed depending on the p
 - BicPAM is implemented in the [BicPAMS tool](https://web.ist.utl.pt/rmch/bicpams/).
   - Both an Desktop GUI and a Java API are provided.
 - CCC is implemented as part of the [BiGGEsTS software](http://homepage.tudelft.nl/c7g5f/software/biggests2/) (GUI implementation).
-  - Alternatively we share [another implementation](http://kdbio.inesc-id.pt/software/ccc-biclustering/) that consists of an Java -jar
   
   
   
