@@ -10,5 +10,5 @@
 
 ## References
 
-- [K-means scikit documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
+- [Spectral Clustering scikit documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
 
