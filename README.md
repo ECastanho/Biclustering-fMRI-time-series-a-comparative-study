@@ -12,12 +12,38 @@ This repository aims to provide support to the associated paper. It acts as an r
 
 ## Repository structure
 
+- **SimTB Generators**: Related with the process of generating synthetic datasets
+- **Data Collections**: Data used for the analysis
+- **Biclustering Generators**: Scripts for generating biclusters from the data
+- **Biclustering Analysis**: Functions to compute the analysis metrics
+
 
 ## Data collections
 
-The paper have three data colections:
+The paper have three data colections.
 
+- **First  data collection**: A single synthetic subject
+- **Second data collection**: Twenty synthetic subjects
+- **Third  data collection**: Twenty real subjects
 
+## Algorithms
+### Biclustering algorithms
+- ISA
+- XMotifs
+- FABIA
+- Spectral
+- Bimax
+- CCC
+- BicPAM
+
+### Clustering algorithms
+- K-Means
+- Spectral
+- Ward's 
+
+## Workflow
+
+![Image of Yaktocat](https://raw.githubusercontent.com/ECastanho/Biclustering-fMRI-Time-Series-A-comparative-Study/master/Workflow.png)
 
 
 ## Software requirements
