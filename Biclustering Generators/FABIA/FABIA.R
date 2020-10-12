@@ -1,8 +1,3 @@
-## @author Eduardo Castanho
-#  @contact ecastanho@lasige.di.fc.ul.pt 
-#  Last modified at 11-03-2020
-##
-
 ############################################################################################################           DATA INPUT AND INITIALIZATION               ####################################################################################################################
 
 #This function aims to encapsulate the FABIA bicluster algorithm. For a quick start, just read the next two sections
@@ -108,7 +103,6 @@ Fabia <- function(dataset,
     rowlist = rb$bic[j,]$bixn
     collist = rb$bic[j,]$biypn
     temp <- as.data.frame(mydata[rowlist,collist])
-    print("pokemon")
     if ((length(rowlist) > 2 & length(collist) > 2)
         ) {
       rownames(temp) = rowlist
