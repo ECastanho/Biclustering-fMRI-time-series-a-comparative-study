@@ -1,8 +1,3 @@
-## @author Eduardo Castanho
-#  @contact ecastanho@lasige.di.fc.ul.pt 
-#  Last modified at 11-03-2020
-##
-
 ############################################################################################################           DATA INPUT AND INITIALIZATION               ####################################################################################################################
 
 #This function aims to encapsulate the bimax bicluster algorithm. For a quick start, just read the next two sections
